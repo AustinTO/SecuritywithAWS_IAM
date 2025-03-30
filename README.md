@@ -2,8 +2,7 @@
 
 By Austin O'Dell
 
-![](SecWithAWSIAMMedia//c70cc96f8b9a6cb9338e8721035803b74ba9db11.png){width="6.5in"
-height="4.333333333333333in"}
+![](SecWithAWSIAMMedia//c70cc96f8b9a6cb9338e8721035803b74ba9db11.png)
 
 This hands-on AWS project using both AWS CLI and AWS Console focused on
 implementing strong security practices using Identity and Access
